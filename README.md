@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prem Aman</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif" style="margin-top: -20px;">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif" style="margin-top: 0px;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premaman10&label=Profile%20views&color=0e75b6&style=flat" alt="premaman10" /> </p>
