@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premaman10&label=Profile%20views&color=0e75b6&style=flat" alt="premaman10" /> </p>
 
--  I have worked on [Tik-Tak-Toe Game](https://tik-tak-toe-1012.web.app)
+-  I have worked on
+- [Tik-Tak-Toe Game](https://tik-tak-toe-1012.web.app)
+- [Smart City Website](https://premaman10.github.io/Smart-City-Website/)
 
 - 🌱 I’m currently learning **Java,Javascript,NodeJs**
 
