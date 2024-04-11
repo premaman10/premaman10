@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premaman10&label=Profile%20views&color=0e75b6&style=flat" alt="premaman10" /> </p>
 
--👀 I’m interested in ...coding
+- 👀 I’m interested in ...coding
 
 - 🌱 I’m currently learning **Java,Javascript,NodeJs**
 
 - 💬 Ask me about **C++ , HTML,CSS**
-- 
+  
 - 💞️ I’m looking to collaborate on ...projects
 
 - 📫 How to reach me **amanprem374@gmail.com**
